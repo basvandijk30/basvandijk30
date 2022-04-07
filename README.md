@@ -3,5 +3,5 @@
 <h2>enjoy</h2>
 
 ```
-arbitrary code
+from bing import bong
 ```
