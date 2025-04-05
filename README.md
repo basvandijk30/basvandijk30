@@ -14,4 +14,4 @@ Interests
 
 Skills
 ------
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/gray" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/linux/gray" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/gray" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/gray" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/cisco/gray">
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/grey" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/linux/grey" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/grey" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/wireshark/grey" /> &nbsp; <img height="32" width="32" src="https://cdn.simpleicons.org/cisco/white">
